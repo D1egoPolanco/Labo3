@@ -1,0 +1,202 @@
+.Normal{
+    margin: 1em;
+    background: grey;
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color: black;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.Pequeño{
+    margin: 1em;
+    background: grey;
+    font:bold 15px Verdana;
+    text-decoration: none;
+    color: black;
+    padding: 2.5px 5px 2.5px 5px;
+    border-radius: 5px;
+}
+.Grande{
+    margin: 1em;
+    background: grey;
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color: black;
+    padding: 15px 30px 15px 30px;
+    border-radius: 5px;
+}
+.esmeralda {
+    margin: 1em;
+    background:rgb(102, 214, 141) ;
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color:white;
+    border: 4px solid rgb(102, 214, 141);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.cielo {
+    margin: 1em;
+    background: hsl(204, 70%, 62%);
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color:white;
+    border: 4px solid hsl(204, 70%, 62%);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.Amatista{
+    margin: 1em;
+    background: hsla(282, 39%, 62%, 1);
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color:white;
+    border: 4px solid hsla(282, 39%, 62%, 1);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.Asfalto{
+    margin: 1em;
+    background: rgb(92, 109, 126);
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color:white;
+    border: 4px solid rgb(92, 109, 126);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.Topacio{
+    margin: 1em;
+    background: rgba(233, 151, 78, 1);
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color:white;
+    border: 4px solid  rgba(233, 151, 78, 1);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.Rubí{
+    margin: 1em;
+    background:rgba(235, 111, 98, 1);
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color:white;
+    border: 4px solid rgba(235, 111, 98, 1);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.simple{
+    margin: 1em;
+    background:white ;
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color:grey;
+    border: 2px solid grey;
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.esmeraldabor {
+    margin: 1em;
+    background:white ;
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color:rgb(102, 214, 141);
+    border: 2px solid rgb(102, 214, 141);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.cielobor {
+    margin: 1em;
+    background:white;
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color: hsl(204, 70%, 62%);
+    border: 2px solid hsl(204, 70%, 62%);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.Amatistabor{
+    margin: 1em;
+    background:white;
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color: hsla(282, 39%, 62%, 1);
+    border: 2px solid hsla(282, 39%, 62%, 1);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.Asfaltobor{
+    margin: 1em;
+    background:white;
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color:rgb(92, 109, 126);
+    border: 2px solid rgb(92, 109, 126);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.Topaciobor{
+    margin: 1em;
+    background:white ;
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color:rgba(233, 151, 78, 1);
+    border: 2px solid  rgba(233, 151, 78, 1);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.Rubíbor{
+    margin: 1em;
+    background:white;
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color:rgba(235, 111, 98, 1);
+    border: 2px solid rgba(235, 111, 98, 1);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.Asfaltolargo{
+    margin: 1em;
+    background: rgb(92, 109, 126);
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color:white;
+    border: 4px solid rgb(92, 109, 126);
+    padding: 15px 30px 15px 30px;
+    border-radius: 5px;
+}
+.bordecielo {
+    margin: 1em;
+    background:white;
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color: hsl(204, 70%, 62%);
+    border: 2px solid hsl(204, 70%, 62%);
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+}
+.esmeraldapeque {
+    margin: 1em;
+    background:rgb(102, 214, 141) ;
+    font:bold 10px Verdana;
+    text-decoration: none;
+    color:white;
+    border: 4px solid rgb(102, 214, 141);
+    padding: 2.5px 5px 2.5px 5px;
+    border-radius: 5px;
+}
+.Rubíborgrande{
+    margin: 1em;
+    background:white;
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color:rgba(235, 111, 98, 1);
+    border: 2px solid rgba(235, 111, 98, 1);
+    padding: 15px 30px 15px 30px;
+    border-radius: 5px;
+}
+
+a:hover{
+    background: Black;
+    color: cornflowerblue;
+}

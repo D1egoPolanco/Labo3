@@ -1,3 +1,44 @@
 body{
-    background: #9b59b6;
+    background: skyblue;
+}
+p{
+    margin-top:0; margin-bottom:0;
+    font:bold 1em Century;
+}
+h1{
+    font:bold 20px Arial;
+}
+.Chess{
+    margin: 1em;
+    background:white ;
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color:rgb(102, 214, 141);
+    border: 2px solid rgb(102, 214, 141);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.Blog{
+    margin: 1em;
+    background:white;
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color: hsla(282, 39%, 62%, 1);
+    border: 2px solid hsla(282, 39%, 62%, 1);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+.Botones{
+    margin: 1em;
+    background:white;
+    font:bold 20px Verdana;
+    text-decoration: none;
+    color:rgb(92, 109, 126);
+    border: 2px solid rgb(92, 109, 126);
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+}
+a:hover{
+    background: Black;
+    color: cornflowerblue;
 }
